@@ -5,7 +5,7 @@ Some random crap
 
 iOS 9.0, 8.4, 8.3, 8.2, 8.1, 7.1
   - base
-    - ~/Library/Developer/CoreSimulator/Devices/<identifier>/data/
+    - ~/Library/Developer/CoreSimulator/Devices/[identifier]/data/
   - safari plists
     - <base>/Containers/Data/Application/<identifier>/<.com.apple.mobile_container_manager.metadata.plist, com.apple.mobilesafari>
   - locationd cache plists
